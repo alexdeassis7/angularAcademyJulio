@@ -1,0 +1,43 @@
+1) descargar node js   : para chequear utilizamos comando "node -v"
+
+https://nodejs.org/es/
+
+2)GEstor de dependencias : npm (node package manager) : para chequear utilizamos comando "npm -v"
+
+3) IDE visual studio code https://code.visualstudio.com/
+
+
+4) lenguaje Typescript : npm install -g typescript : para chequear utilizamos comando "tsc -v"
+
+
+5) Angular : 
+para instalar : npm install -g @angular/cli
+para chequear version : ng --version
+
+https://angular.io/cli   
+
+6) plugin : Thunder Client (bajarlo desde extensions en VScode)
+
+
+
+*************************************** API REST Back End **********************************
+
+
+1) JDK JAVA DEV KIT 
+
+http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-windows-x64.exe
+
+2) MAVEN 
+
+crear variables de entorno : 
+nombre de la variable : M2_HOME
+valor de la variable  : C:\Program Files\apache-maven-3.8.1\bin
+
+agregar al path del SO :
+%M2_HOME%
+
+
+https://maven.apache.org/download.cgi
+
+
+https://maven.apache.org/download.cgi
